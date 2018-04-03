@@ -9,7 +9,6 @@ setup(name='dsx-decision-optimization-common-utils',
       license='MIT',
       packages=['dsx-decision-optimization-common-utils'],
       install_requires=[
-          'pandas',
-          'glob'
+          'pandas'
       ],
       zip_safe=False)
