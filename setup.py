@@ -10,7 +10,6 @@ setup(name='dsx-decision-optimization-common-utils',
       packages=['dsx-decision-optimization-common-utils'],
       install_requires=[
           'pandas',
-          'os',
           'glob'
       ],
       zip_safe=False)
